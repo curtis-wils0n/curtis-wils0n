@@ -4,7 +4,7 @@ I am a full-stack web developer specializing in Angular, React, and Ruby on Rail
 
 ## Current Projects
 
-[Pager](https://github.com/curtis-wils0n/pager) - Book review app created in React
+Working with [Caterpillar Inc.](https://www.caterpillar.com/) on [Remote Fleet Vision](https://www.cat.com/en_US/by-industry/oil-and-gas/product-support/cat-oil-gas-digital-services/cat-remote-fleet-vision-for-oil-and-gas.html)
 
 ## Contact
 
