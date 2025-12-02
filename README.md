@@ -1,3 +1,3 @@
 # Hi, I'm @curtis-wils0n
 
-I am a full-stack web developer specializing in Angular, React, and Ruby on Rails.
+I am a software engineer working out of Calgary, Alberta specializing in React and ASP.NET.
